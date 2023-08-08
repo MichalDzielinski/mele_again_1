@@ -1,0 +1,294 @@
+[
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Some random title",
+    "slug": "some-random-title",
+    "author": 1,
+    "body": "Smaller independent bakeries are becoming particularly successful at it now with limited runs of croissants or other baked goods that then are quickly advertised on social media. Keith Wilcox, a professor of marketing at Texas A&M University in College Station, says the scarcity strategy has helped bakeries increase the perception of quality and connect directly with customers.\r\n\r\nBakeries have the added pressure to sell croissants and other products that otherwise would lose their value in mere hours. Call it the croissant theory.",
+    "publish": "2023-08-08T07:07:30Z",
+    "created": "2023-08-08T07:19:15.288Z",
+    "updated": "2023-08-08T11:01:56.082Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Another one",
+    "slug": "another-one",
+    "author": 1,
+    "body": "Each Saturday morning he has one priority: scoring a flaky pastry from his favorite bakery. It isn’t easy. The $7 triple chocolate croissant with a chocolaty crust that he covets is often sold out if he arrives after 10:30 a.m. Flores, 36 years old, recently skipped his morning workout to arrive closer to 8.\r\n\r\n“It’s so good—the different kinds of the chocolate flavors hit you on different levels,” says Flores, who works in outdoor advertising and visits Radio Bakery in Brooklyn, N.Y., about a 15-minute commute from his apartment.",
+    "publish": "2023-08-08T07:19:26Z",
+    "created": "2023-08-08T07:19:41.087Z",
+    "updated": "2023-08-08T11:08:08.920Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Something else",
+    "slug": "something-else",
+    "author": 1,
+    "body": "The bakeries’ strategy is in part driven by all of the pressures on their businesses. Bakers say they are navigating labor shortages, higher ingredient costs and irregular demand throughout the week. \r\n\r\nTo get more customers in the door, bakeries have attempted to build a culture around people trekking to their store for high-quality, day-of baked goods, waiting in line, posting a photo online and returning the next time to try a pastry that was sold out. By announcing on social media when items are sold out for the day, bakeries also create cronut-level excitement around more standard breads.\r\n\r\n“If it doesn’t sell out, we don’t make it anymore,” says Mindy Segal, founder of Mindy’s Bakery in Chicago. \r\n\r\nStand-alone bakery sales topped $7.7 billion in 2022, compared with $6.1 billion in 2018, according to data from Sundale Research, a market research firm in Bay Shore, N.Y.",
+    "publish": "2023-08-08T07:19:51Z",
+    "created": "2023-08-08T07:20:02.926Z",
+    "updated": "2023-08-08T11:07:37.481Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "This is not the same",
+    "slug": "this-is-not-the-same",
+    "author": 1,
+    "body": "“We see the same revenue with half the staff and half of the hours,” says Heavican, who opened a second location in Spring Lake, N.J., in 2021. \r\n\r\nNick & Sons typically sells out of almond croissants by 10 a.m., he says. They are more time-consuming and expensive to bake. The bakery regularly sells out of regular croissants and other specialty pastries later, he says. It closes early on days that most pastries sell out.",
+    "publish": "2023-08-08T07:20:04Z",
+    "created": "2023-08-08T07:20:29.168Z",
+    "updated": "2023-08-08T11:03:20.101Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "More and more",
+    "slug": "more-and-more",
+    "author": 1,
+    "body": "Sarah Kalczynski, a 28-year-old digital strategist in Los Angeles, says she can tell just by seeing the croissants in person if they are worth a try. Kalczynski has now visited more than 30 bakeries and ranks croissants on her TikTok. She says that the shiny, filled-out facade of each pastry often guarantees a crispy result.\r\n\r\nShe has learned that bakeries offering croissants later in the afternoon can be a red flag. “It could mean that the croissants aren’t that good,” she says.\r\n\r\nAt Wentworth & Fenn, a bakery with two locations in Charlotte, N.C., owner Samantha Ward offers no more than a dozen of her bourbon butter oatmeal creme pies at each location. Often that means the bakery’s most popular dessert sells out by noon, she says. Posts on Instagram of limited pastry runs, including of a lemon cayenne tart, are especially popular, Ward says: “You have to get here ASAP so you’re not missing out.”",
+    "publish": "2023-08-08T07:20:31Z",
+    "created": "2023-08-08T07:21:03.727Z",
+    "updated": "2023-08-08T11:02:34.994Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "And another and another and ....",
+    "slug": "and-another-and-another-and",
+    "author": 1,
+    "body": "Instead of waking up early, Shelby Stern, 36, who stays at home with her two children, says she often visits nearby coffee shops and boutique grocers that carry pastries from her favorite spots near her Denver home. Some bakeries sell items to local cafes where they have a lower likelihood of selling out.\r\n\r\n“I can look at their social media and play the game,” she adds.",
+    "publish": "2023-08-08T07:21:06Z",
+    "created": "2023-08-08T07:21:31.394Z",
+    "updated": "2023-08-08T07:21:31.394Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 5,
+    "name": "Mike",
+    "email": "sdafa@dsf.asdcom",
+    "body": "fsdsakdgjalsghh",
+    "created": "2023-08-08T08:58:39.466Z",
+    "updated": "2023-08-08T08:58:39.466Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 5,
+    "name": "smithe",
+    "email": "dsafsjka@dsfsdaf.cm",
+    "body": "asdfjkaslkgdj",
+    "created": "2023-08-08T08:58:56.417Z",
+    "updated": "2023-08-08T08:58:56.417Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 3,
+    "name": "sadfas",
+    "email": "dasdfs@dfsd.com",
+    "body": "dsfgasdgkljlaksdgflk",
+    "created": "2023-08-08T08:59:19.209Z",
+    "updated": "2023-08-08T08:59:19.209Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 4,
+  "fields": {
+    "post": 3,
+    "name": "asdgas",
+    "email": "dsa@dfasd.coms",
+    "body": "dsagfasdgjkasdflkj",
+    "created": "2023-08-08T08:59:28.411Z",
+    "updated": "2023-08-08T08:59:28.411Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 5,
+  "fields": {
+    "post": 3,
+    "name": "asdf",
+    "email": "sdafas@dsfds.com",
+    "body": "dsagd",
+    "created": "2023-08-08T08:59:38.515Z",
+    "updated": "2023-08-08T08:59:38.515Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 6,
+  "fields": {
+    "post": 3,
+    "name": "asdg",
+    "email": "dsag@ds.fds",
+    "body": "dsagas",
+    "created": "2023-08-08T08:59:47.362Z",
+    "updated": "2023-08-08T08:59:47.362Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 7,
+  "fields": {
+    "post": 3,
+    "name": "safasgd",
+    "email": "asdfas@dgsad.com",
+    "body": "dsagas",
+    "created": "2023-08-08T09:00:00.265Z",
+    "updated": "2023-08-08T09:00:00.265Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 8,
+  "fields": {
+    "post": 2,
+    "name": "sadfasd",
+    "email": "dsag@sdag.com",
+    "body": "sdagashbaerdfxc",
+    "created": "2023-08-08T09:00:22.689Z",
+    "updated": "2023-08-08T09:00:22.689Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 9,
+  "fields": {
+    "post": 2,
+    "name": "asgdgdas",
+    "email": "sadg@dfgsd.com",
+    "body": "dggsaglkjasdlkgjalk",
+    "created": "2023-08-08T09:00:32.287Z",
+    "updated": "2023-08-08T09:00:32.287Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 10,
+  "fields": {
+    "post": 2,
+    "name": "adsfag",
+    "email": "sagd@dsfsd.com",
+    "body": "dsagaskljwelhgjklsdnv",
+    "created": "2023-08-08T09:00:42.752Z",
+    "updated": "2023-08-08T09:00:42.752Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 11,
+  "fields": {
+    "post": 4,
+    "name": "sadgfasdjlgk",
+    "email": "dsgkas@dsdgas.com",
+    "body": "sdaklgjaslkj",
+    "created": "2023-08-08T09:01:02.684Z",
+    "updated": "2023-08-08T09:01:02.684Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 12,
+  "fields": {
+    "post": 4,
+    "name": "asgasdg",
+    "email": "dgsagd@gsad.com",
+    "body": "gdsakjgalskjdg",
+    "created": "2023-08-08T09:01:12.580Z",
+    "updated": "2023-08-08T09:01:12.580Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 13,
+  "fields": {
+    "post": 4,
+    "name": "asdfjask",
+    "email": "sdagas@sdgsf.com",
+    "body": "sgdkjlaskdgj",
+    "created": "2023-08-08T09:01:21.677Z",
+    "updated": "2023-08-08T09:01:21.677Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 14,
+  "fields": {
+    "post": 1,
+    "name": "dasfasq",
+    "email": "dasf@gfsdfg.vom",
+    "body": "sdflkjsadgkjlads",
+    "created": "2023-08-08T11:51:05.047Z",
+    "updated": "2023-08-08T11:51:05.047Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 15,
+  "fields": {
+    "post": 1,
+    "name": "sadfsa",
+    "email": "23dfsa@sfdsd.com",
+    "body": "asdfasdf",
+    "created": "2023-08-08T11:51:19.522Z",
+    "updated": "2023-08-08T11:51:19.522Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 16,
+  "fields": {
+    "post": 1,
+    "name": "sadgsad",
+    "email": "asdfasd@dsfsd.com",
+    "body": "asdfasd",
+    "created": "2023-08-08T11:51:35.774Z",
+    "updated": "2023-08-08T11:51:35.774Z",
+    "active": true
+  }
+}
+]
