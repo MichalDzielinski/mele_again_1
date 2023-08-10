@@ -37,6 +37,18 @@
             </li>
             {% endfor %}
         </ul>
+
+        <br>
+        {% if user.is_authenticated %}
+        Hello {{ request.user.username }}
+        <br><br>
+        <a href="{% url 'users:user-logout' %}" type="button" class="btn">LOGOUT</a>
+        {% else %}
+        
+        <a href="{% url 'users:my-login' %}" type="button" class="btn">LOGIN</a>
+
+        {% endif %}
+        <br><br>
     </div>
 </body>
 </html>

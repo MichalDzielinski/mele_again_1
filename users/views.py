@@ -18,7 +18,13 @@ def my_login(request):
                 return redirect('blog:post_list')
     
     context = {
-        'loginform': form
+        'form': form
     }
 
-    return render(request,'blog/my-login.html')
+    return render(request,'blog/my-login.html', context)
+
+def user_logout(request):
+    auth.logout(request)
+    return redirect('blog:post_list')
+
+
